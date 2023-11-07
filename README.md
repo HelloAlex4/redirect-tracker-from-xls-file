@@ -10,4 +10,5 @@ The excel file needs to be Formated the same way as the example file given.
 
 The program will than track the redirects and write them back in the excel file.
 
-The Problem with this code is that it runns very slowly a possible solution for that would be to implement threading.
+The Problem with this code is that it runns really slow.
+A possible solution for this problem would be to implement threading.
