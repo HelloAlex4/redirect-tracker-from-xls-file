@@ -1,7 +1,6 @@
 import requests
 from openpyxl import load_workbook
 
-#file = ("Example URLs Tescases.xlsx")
 file = input("Enter Path of the Excel File (including file extention): ")
 
 workbook = load_workbook(file)
