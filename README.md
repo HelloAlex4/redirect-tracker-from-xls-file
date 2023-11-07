@@ -7,4 +7,5 @@ The last step is to write the final redirected url to the excel file again.
 
 
 When running the code, you will be prompted to input the path to the excel file which contains the URLs you wnat to track.
-The excel file needs to be Formated the same way as the example file.
+The excel file needs to be Formated the same way as the example file[Example URLs.xlsx](https://github.com/HelloAlex4/redirect-tracker-from-xls-file/files/13284355/Example.URLs.xlsx)
+.
